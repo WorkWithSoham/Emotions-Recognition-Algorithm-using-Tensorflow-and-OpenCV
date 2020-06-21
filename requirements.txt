@@ -1,0 +1,5 @@
+tensorflow==2.2
+numpy
+keras
+pandas
+opencv
